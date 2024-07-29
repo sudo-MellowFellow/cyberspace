@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "0391af3c91016f21",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8ea83c4408bfde0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "426fab22a0f34f33",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "50b95bb59a0d08be",
+    "type": "split",
+    "children": [
+      {
+        "id": "0eccac99efb14355",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8b02584f0d32752",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fafbdfe866abbe29",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e90bc93baba6a8a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3ab6f3f327942dc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "42a14615f9acf315",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6759c2f03d2363eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "204843ce35006949",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dcf0126debe80c4c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0f54a151a4cb0cc0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "426fab22a0f34f33",
+  "lastOpenFiles": [
+    "99-Assets/Scrap",
+    "99-Assets/Drawings/LightbulbResitors.png",
+    "99-Assets/Drawings/ParrallelVSSeries.png",
+    "99-Assets/Drawings/Currents 2024-06-06 11.23.55.excalidraw.md",
+    "99-Assets/Drawings/Drawing 2024-05-14 11.18.33.excalidraw.md",
+    "99-Assets/Drawings/CircuitSymbols.png",
+    "99-Assets/Drawings/Currents 2024-06-06 11.45.21.excalidraw.md",
+    "99-Assets/Drawings/Currents 2024-06-05 11.41.57.excalidraw.md",
+    "99-Assets/Drawings/Parallel circuits 2024-06-13 09.54.52.excalidraw.md",
+    "99-Assets/Drawings/3 Lightbulb Parallel Circut.png",
+    "99-Assets/Drawings",
+    "99-Assets/Pasted image 20240516101510.png",
+    "99-Assets/Pasted image 20240516101551.png",
+    "99-Assets/Firewatch horizon.png",
+    "99-Assets/Pasted image 20240606115438.png",
+    "99-Assets/Pasted image 20240528115637.png",
+    "99-Assets/ElectronsDC.gif",
+    "99-Assets",
+    "05-Other/History/WW1 Practice test.md",
+    "05-Other/History/Types of injuries in war.md",
+    "05-Other/History/Medics managing the casualties.md",
+    "05-Other/History/Medic mindmap.canvas",
+    "05-Other/History/WW1 Medic.md",
+    "05-Other/History",
+    "05-Other/Paralysation of the future.md",
+    "05-Other/Laptops.md",
+    "05-Other/Application for peer support.md",
+    "05-Other/PDHPE Resilience Assessment.md",
+    "05-Other",
+    "04-Science/Electricity/Electricity at the atomic level.md",
+    "04-Science/Electricity/Fuses.md",
+    "04-Science/Electricity/Parallel circuits.md",
+    "04-Science/Electricity/Charges.md",
+    "04-Science/Electricity/Currents and circuits.md",
+    "04-Science/Electricity/Batteries.md",
+    "04-Science/Electricity",
+    "04-Science/Body systems/Nervous System.md",
+    "04-Science/Body systems/The Endocrine system.md",
+    "04-Science/Body systems/Lines of defence.md",
+    "04-Science/Body systems",
+    "04-Science/Periodic Table/Matter.md",
+    "04-Science/Periodic Table",
+    "04-Science",
+    "03-English/Speculative fiction/Application.md",
+    "03-English/Speculative fiction/Knowledge.md",
+    "03-English/Speculative fiction",
+    "03-English/Misc/Issues affecting youth!.canvas",
+    "03-English/Misc",
+    "zOther/History/Medic mindmap.canvas",
+    "English/Misc/Issues affecting youth!.canvas"
+  ]
+}

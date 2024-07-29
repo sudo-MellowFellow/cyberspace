@@ -1,0 +1,11 @@
+Just a writing doc to expand on some personal ideas about mistakes and social paralysation
+
+Thinking about the future and where I will end up is an extremely scary concept. Especially poor outcomes.
+
+The worst outcome that I can think of when the future comes into question is of nothing. This is what I describe as the paralysation of the future, the idea you become so scared of what ifs that you never go anywhere, your future becomes paralysed. This is shown best in social settings such as a classroom, being scared of the what if can cause you to not answer questions. Scared you might get them wrong. What if I get this wrong? What if everyone laughs at me? What if people think less of me? This overthinks creates bad outcomes, in the end the outcome you chose of hiding in the back means people won’t think higher of you as you didn’t know any answers. Realistically too if you did get the answer wrong the worst that will every happen is you are corrected, which is just a learning experience.
+
+This worry of making mistakes ensure you will repeat any mistakes in the future. There is no learning if you never begin. In any case erasing mistakes is easier than creating new ones, so keep making them, write and dance and sing as long as you last. Then once it is all over and the concert is complete you can review and improve. Learn from what went wrong do more of everything write and continue. These mistakes don’t last but education does and in the end you will have nothing but this education.
+
+The other people, everyone who does hide their face, living in the dark with a mask over themself to ensure nothing ever cuts too close will simply watch on as you push far ahead. For every musician there is their audience. To live life to the fullest you will want to be on the stage, not in the dark. So don’t be scared of opening up, live as yourself and not someone else. No one else will every be you in any case so make sure to show off. Come out of the woodworks and join the symphony mistakes are temporary but true friends are forever.
+
+The idea of true friends should also be explored. Maybe another day.
