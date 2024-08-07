@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e8ea83c4408bfde0",
+        "id": "25587ec7417d997c",
         "type": "tabs",
         "children": [
           {
-            "id": "426fab22a0f34f33",
+            "id": "3fc2f6a6e238a2f2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -92,17 +92,6 @@
             }
           },
           {
-            "id": "204843ce35006949",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "dcf0126debe80c4c",
             "type": "leaf",
             "state": {
@@ -120,6 +109,17 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "ef02ad1a85eb433a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       }
@@ -135,59 +135,60 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "426fab22a0f34f33",
+  "active": "3fc2f6a6e238a2f2",
   "lastOpenFiles": [
+    "03-English/Shining a new (stage) light/Intertextuality.md",
+    "01-Commerce/Advertising/Product promotion strategies.md",
+    "01-Commerce/Advertising/Legal and ethical implications with advertising.md",
+    "01-Commerce/Advertising/Differentiating products.md",
+    "01-Commerce/Business/Create a business.md",
+    "01-Commerce/Finance/Keeping finiancial records.md",
+    "01-Commerce/Business/Legal structure.md",
+    "01-Commerce/Business/Business creation assessment.md",
+    "01-Commerce/Finance/Start up costs.md",
+    "04-Science/Periodic Table/Chemical reactions.md",
+    "99-Assets/Drawings/Drawing 2024-05-14 11.18.33.excalidraw.md",
+    "03-English/Speculative fiction/Comprehension.md",
+    "01-Commerce/Finance",
+    "01-Commerce/Finance/Organizing finance.md",
+    "01-Commerce/Advertising",
+    "01-Commerce/Business/Running a business.md",
+    "01-Commerce/Structure",
+    "01-Commerce/Business",
+    "03-English/My story/Guiding questions.md",
+    "03-English/My story/Issues affecting youth!.canvas",
+    "03-English/Speculative fiction/Application.md",
+    "03-English/My story/My story guide.md",
+    "03-English/My story/Text type.md",
+    "03-English/My story/My story reflection questions.md",
+    "03-English/My story/Writing/Pixar in a Box.md",
+    "04-Science/Periodic Table/Major types of bonding.md",
+    "03-English/Shining a new (stage) light",
+    "99-Assets/Pasted image 20240731114458.png",
+    "99-Assets/Pasted image 20240731114132.png",
+    "04-Science/Periodic Table/Atoms.md",
+    "04-Science/Periodic Table/Matter.md",
+    "04-Science/Periodic Table/Chemical Bond.md",
+    "04-Science/Periodic Table/Ionic bonding.md",
+    "Pasted image 20240731111718.png",
+    "04-Science/Electricity/Batteries.md",
     "99-Assets/Scrap",
     "99-Assets/Drawings/LightbulbResitors.png",
     "99-Assets/Drawings/ParrallelVSSeries.png",
-    "99-Assets/Drawings/Currents 2024-06-06 11.23.55.excalidraw.md",
-    "99-Assets/Drawings/Drawing 2024-05-14 11.18.33.excalidraw.md",
     "99-Assets/Drawings/CircuitSymbols.png",
-    "99-Assets/Drawings/Currents 2024-06-06 11.45.21.excalidraw.md",
-    "99-Assets/Drawings/Currents 2024-06-05 11.41.57.excalidraw.md",
-    "99-Assets/Drawings/Parallel circuits 2024-06-13 09.54.52.excalidraw.md",
     "99-Assets/Drawings/3 Lightbulb Parallel Circut.png",
     "99-Assets/Drawings",
     "99-Assets/Pasted image 20240516101510.png",
     "99-Assets/Pasted image 20240516101551.png",
     "99-Assets/Firewatch horizon.png",
-    "99-Assets/Pasted image 20240606115438.png",
-    "99-Assets/Pasted image 20240528115637.png",
-    "99-Assets/ElectronsDC.gif",
     "99-Assets",
-    "05-Other/History/WW1 Practice test.md",
-    "05-Other/History/Types of injuries in war.md",
-    "05-Other/History/Medics managing the casualties.md",
     "05-Other/History/Medic mindmap.canvas",
-    "05-Other/History/WW1 Medic.md",
     "05-Other/History",
-    "05-Other/Paralysation of the future.md",
-    "05-Other/Laptops.md",
-    "05-Other/Application for peer support.md",
-    "05-Other/PDHPE Resilience Assessment.md",
     "05-Other",
-    "04-Science/Electricity/Electricity at the atomic level.md",
-    "04-Science/Electricity/Fuses.md",
-    "04-Science/Electricity/Parallel circuits.md",
-    "04-Science/Electricity/Charges.md",
-    "04-Science/Electricity/Currents and circuits.md",
-    "04-Science/Electricity/Batteries.md",
-    "04-Science/Electricity",
-    "04-Science/Body systems/Nervous System.md",
-    "04-Science/Body systems/The Endocrine system.md",
-    "04-Science/Body systems/Lines of defence.md",
-    "04-Science/Body systems",
-    "04-Science/Periodic Table/Matter.md",
-    "04-Science/Periodic Table",
-    "04-Science",
-    "03-English/Speculative fiction/Application.md",
-    "03-English/Speculative fiction/Knowledge.md",
-    "03-English/Speculative fiction",
-    "03-English/Misc/Issues affecting youth!.canvas",
-    "03-English/Misc",
     "zOther/History/Medic mindmap.canvas",
     "English/Misc/Issues affecting youth!.canvas"
   ]
