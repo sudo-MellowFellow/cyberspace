@@ -3,5 +3,8 @@
   "obsidian-excalidraw-plugin",
   "obsidian-style-settings",
   "obsidian-smart-typography",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "templater-obsidian",
+  "calendar",
+  "tag-wrangler"
 ]

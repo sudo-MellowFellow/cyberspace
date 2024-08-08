@@ -11,8 +11,12 @@
             "id": "3fc2f6a6e238a2f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "99-Assets/Templates/Weekly note template.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -29,7 +33,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e8b02584f0d32752",
+            "id": "0947b4ff7c869847",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,14 +56,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "1e90bc93baba6a8a",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
@@ -81,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "99-Assets/Templates/Weekly note template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "99-Assets/Templates/Weekly note template.md"
+              }
             }
           },
           {
@@ -116,17 +115,32 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "99-Assets/Templates/Weekly note template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "82f329e78c64f239",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a483a088224a5ab",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -136,59 +150,59 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "3fc2f6a6e238a2f2",
   "lastOpenFiles": [
+    "99-Assets/Templates/Untitled.md",
+    "99-Assets/Templates/Weekly note template.md",
+    "99-Assets/Journal",
+    "99-Assets/Weekly Notes/W32-2024.md",
+    "99-Assets/Weekly Notes/Template",
+    "99-Assets/Weekly Notes/2024-W32.md",
+    "99-Assets/Journal/Weekly Notes",
+    "99-Assets/Journal/Daily notes/08-08-2024.md",
+    "01-Commerce/Business/Business creation assessment.md",
+    "01-Commerce/Business/Create a business.md",
+    "01-Commerce/Business/Legal structure.md",
+    "01-Commerce/Business/Running a business.md",
     "03-English/Shining a new (stage) light/Intertextuality.md",
+    "99-Assets/Images/Pasted image 20240528115637.png",
+    "99-Assets/Images/Pasted Image 20240613095507_929.png",
+    "99-Assets/Images/Pasted image 20240516101510.png",
+    "99-Assets/Images/ElectronsDC.gif",
+    "99-Assets/Images/ElectronAtomicFlow.gif",
+    "99-Assets/Images/Atomic Shell.png",
+    "99-Assets/Images/Pasted image 20240528114941.png",
+    "99-Assets/Images",
+    "99-Assets/Templates",
+    "99-Assets/Journal/Daily notes",
+    "04-Science/Periodic Table/Major types of bonding.md",
+    "Untitled.docx",
+    "Untitled.md",
     "01-Commerce/Advertising/Product promotion strategies.md",
     "01-Commerce/Advertising/Legal and ethical implications with advertising.md",
     "01-Commerce/Advertising/Differentiating products.md",
-    "01-Commerce/Business/Create a business.md",
     "01-Commerce/Finance/Keeping finiancial records.md",
-    "01-Commerce/Business/Legal structure.md",
-    "01-Commerce/Business/Business creation assessment.md",
     "01-Commerce/Finance/Start up costs.md",
     "04-Science/Periodic Table/Chemical reactions.md",
-    "99-Assets/Drawings/Drawing 2024-05-14 11.18.33.excalidraw.md",
+    "99-Assets/Images/Drawings/Drawing 2024-05-14 11.18.33.excalidraw.md",
     "03-English/Speculative fiction/Comprehension.md",
     "01-Commerce/Finance",
     "01-Commerce/Finance/Organizing finance.md",
     "01-Commerce/Advertising",
-    "01-Commerce/Business/Running a business.md",
     "01-Commerce/Structure",
-    "01-Commerce/Business",
     "03-English/My story/Guiding questions.md",
     "03-English/My story/Issues affecting youth!.canvas",
     "03-English/Speculative fiction/Application.md",
     "03-English/My story/My story guide.md",
     "03-English/My story/Text type.md",
-    "03-English/My story/My story reflection questions.md",
-    "03-English/My story/Writing/Pixar in a Box.md",
-    "04-Science/Periodic Table/Major types of bonding.md",
-    "03-English/Shining a new (stage) light",
-    "99-Assets/Pasted image 20240731114458.png",
-    "99-Assets/Pasted image 20240731114132.png",
-    "04-Science/Periodic Table/Atoms.md",
-    "04-Science/Periodic Table/Matter.md",
-    "04-Science/Periodic Table/Chemical Bond.md",
-    "04-Science/Periodic Table/Ionic bonding.md",
+    "99-Assets/Images/Pasted image 20240731114458.png",
+    "99-Assets/Images/Pasted image 20240731114132.png",
     "Pasted image 20240731111718.png",
-    "04-Science/Electricity/Batteries.md",
-    "99-Assets/Scrap",
-    "99-Assets/Drawings/LightbulbResitors.png",
-    "99-Assets/Drawings/ParrallelVSSeries.png",
-    "99-Assets/Drawings/CircuitSymbols.png",
-    "99-Assets/Drawings/3 Lightbulb Parallel Circut.png",
-    "99-Assets/Drawings",
-    "99-Assets/Pasted image 20240516101510.png",
-    "99-Assets/Pasted image 20240516101551.png",
-    "99-Assets/Firewatch horizon.png",
-    "99-Assets",
     "05-Other/History/Medic mindmap.canvas",
-    "05-Other/History",
-    "05-Other",
     "zOther/History/Medic mindmap.canvas",
     "English/Misc/Issues affecting youth!.canvas"
   ]
